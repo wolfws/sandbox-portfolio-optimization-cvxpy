@@ -2,7 +2,13 @@
 CVXPY Portfolio Optimization Sample 
 
 
+theory
+
+https://anaconda.org/wolfws/portfolio_optimization/notebook
+
+
 CVXPY functions to math formulas translation:
+
 http://www.cvxpy.org/en/latest/tutorial/dcp/index.html
 http://www.cvxpy.org/en/latest/tutorial/functions/
 https://github.com/cvxgrp/cvxpy/tree/master/examples/notebooks
